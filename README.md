@@ -1,30 +1,15 @@
 [![build](https://img.shields.io/github/actions/workflow/status/momo5502/boiii/build.yml?branch=main&label=Build&logo=github)](https://github.com/momo5502/boiii/actions)
 [![bugs](https://img.shields.io/github/issues/momo5502/boiii/bug?label=Bugs)](https://github.com/momo5502/boiii/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 [![github](https://img.shields.io/badge/GitHub-support-c96198.svg?logo=github)](https://github.com/sponsors/momo5502)
-[![paypal](https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal)](https://paypal.me/momo5502)
 [![patreon](https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon)](https://www.patreon.com/xlabsproject)
 
 
-# BOIII ☄️
+# What is BOIII ☄️
 
-An attempt at reverse engineering and analyzing Call of Duty: Black Ops 3.
+BOIII is a game modification for Call of Duty: Black Ops 3.  
+The Steam version of Black Ops 3 is required to be owned and installed for BOIII to work. You can get it from <a href="https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/">here</a>.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeSXYzQITJrcjiifN1nqX1fsVE7VwLZ3vl2g&usqp=CAU">
-
-## Technical Features
-
-- [x] Steam API Emulation
-- [x] Steam Integrity Bypass
-- [x] Offline Multiplayer/Zombies/Campaign Support
-- [x] RE Tool Detection Bypass (only the ones I use: IDA Pro, HxD, Wireshark)
-- [x] Disable Hardware Breakpoint Detection
-- [x] Disable Integrity Checks
-- [x] Demonware Emulation
-- [x] Process wrapper
-- [x] P2P multiplayer
-- [x] Dedicated Servers
-
-Check out the <a href="https://github.com/momo5502/boiii/issues?q=is%3Aissue+is%3Aclosed+reason%3Acompleted">closed issues</a> for more gameplay related features and fixes that have been added!
 
 ## Writeups & Articles
 
